@@ -79,7 +79,7 @@ function githubLogin() {
     // For GitHub Pages, we'll use GitHub's API directly
     // This is a simplified version - in production, you'd need a backend
     
-    const clientId = 'YOUR_GITHUB_CLIENT_ID'; // You'll need to create a GitHub OAuth App
+    const clientId = 'Ov23liXdU09l5h8VQH7F'; // You'll need to create a GitHub OAuth App
     const redirectUri = window.location.origin;
     const scope = 'repo user';
     
